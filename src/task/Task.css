@@ -1,0 +1,47 @@
+.task {
+
+    width : 80%;
+    margin : -30px 150px;
+  }
+  
+  .hello{
+  
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+  
+  }
+
+  #scales {
+
+   width : 20px;
+   height : 20px;
+
+  }
+  .sub{
+
+    display : flex;
+    align-items: center;
+    gap: 40px;
+  }
+  .fas.fa-times{
+  
+    font-size: 15px;
+    color: rgb(66, 61, 61);
+    
+  }
+  
+  .icon{
+  
+    
+    border: none;
+    width : 20px;
+    height : 20px;
+    position : absolute;
+  }
+  .Dynamic {
+
+    text-decoration: line-through;
+
+  }
+  

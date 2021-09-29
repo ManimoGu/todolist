@@ -5,6 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+    /*background-color : rgb(245, 243, 212);*/
+
+    background-image : url('./Sans titre.png') ;
+    background-size: cover;
+  
+
 }
 
 code {

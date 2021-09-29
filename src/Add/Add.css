@@ -1,0 +1,19 @@
+.title{
+
+    width : 800px;
+    height : 200px;
+    margin : 30px 280px;
+    padding: 40px 10px 10px 10px;
+    margin-bottom : 0px;
+  }
+  h1{
+  
+    text-align: center;
+    font-family: 'Bitter', serif;
+    font-size : 60px;
+  }
+
+  .describe {
+
+    text-align: center;
+  }
