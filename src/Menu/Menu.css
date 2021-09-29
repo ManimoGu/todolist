@@ -1,0 +1,15 @@
+.Menunav{
+ 
+    display : flex;
+    justify-content: space-between;
+    padding: 0px 100px 0px 100px;
+    align-items: center;
+    background-color : rgb(182, 198, 252);
+
+}
+
+.image{
+
+    width: 200px;
+
+}
