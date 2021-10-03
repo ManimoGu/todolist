@@ -8,7 +8,7 @@ const TaskList = ({list, deleteT }) => {
         <div>
              {list.map((task) => (
 
-            <Task item={task} remove = {deleteT}/>
+            <Task item={task} remove = {deleteT} stylist ={styling}/>
 
             ))}
             

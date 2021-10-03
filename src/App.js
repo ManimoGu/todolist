@@ -9,9 +9,9 @@ function App(props) {
   // THE STATE OF THE LIST
   const [taskList, setTaskList] = useState([]);
   const [FilterTodo, setFilterTodo] = useState([]);
+ 
 
   // ADD A NEW TASK TO THE LIST
-
 
   const addTask = (task) => {
 

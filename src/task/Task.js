@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import "./Task.css";
 
-const Task = ({ item, remove }) => {
+const Task = ({ item, remove}) => {
  
      const [classNam, setClassNam] = useState('');
    
@@ -15,6 +15,7 @@ const Task = ({ item, remove }) => {
           <div className="hello">
             <div className ="sub">
           <input type="checkbox" id="scales" name="scales" onClick={() => {
+
 
              item.status = !item.status;
 
